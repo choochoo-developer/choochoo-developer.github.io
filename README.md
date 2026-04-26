@@ -15,8 +15,15 @@ App Store: [Download here](https://apps.apple.com/us/app/tomato-bp-tracker/id676
 
 App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
+3. 코코낸내
+세상에서 가장 따뜻한 엄마 아빠의 목소리로 아기를 재워주는 스마트 수면 도우미입니다.
+
+주요 기능: 부모님 목소리 직접 녹음, 똑똑한 울음 감지 자동 재생(Auto 모드), 수면 방해 없는 완벽한 다크 절전 모드, 맞춤형 타이머
+
+App Store: (출시 준비 중 / Coming Soon)
+
 🔒 통합 개인정보처리방침 (Privacy Policy)
-TOMATO 건강 앱 시리즈(혈압 기록, 혈당 기록)는 사용자의 개인정보를 최우선으로 생각합니다.
+Choochoo Developer의 모든 앱(TOMATO 건강 시리즈, 코코낸내) 사용자의 개인정보를 최우선으로 생각합니다.
 
 본 앱들은 별도의 회원가입을 요구하지 않으며, 사용자의 어떠한 개인 식별 정보나 건강 데이터도 개발자의 서버로 수집하거나 전송하지 않습니다.
 
@@ -50,8 +57,15 @@ Features: One-tap entry for fasting/meals, smart dashboard by context, custom me
 
 App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
+3. 코코낸내 (Available in Korean)
+A smart sleep helper that soothes your baby with the warmest sound in the world: the parents' voices.
+
+Features: Custom voice recording, auto cry detection playback, perfect dark sleep mode, custom timer.
+
+App Store: (Coming Soon)
+
 🔒 Privacy Policy
-The TOMATO Health App Series (BP Tracker & BS Tracker) prioritizes your privacy.
+Choochoo Developer's apps (TOMATO Health Series & 코코낸내) prioritize your privacy.
 
 Our apps do not require registration and do not collect or transmit any personally identifiable information or health data to developer servers.
 
@@ -85,8 +99,15 @@ App Store: [Download here](https://apps.apple.com/us/app/tomato-bp-tracker/id676
 
 App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
+3. 코코낸내 (韓国語のみ対応)
+世界で一番温かいパパとママの声で赤ちゃんを寝かしつけるスマート睡眠サポートアプリです。
+
+主な機能: 音声の直接録音、賢い泣き声感知・自動再生(Autoモード)、まぶしくないダーク節電モード、カスタムタイマー。
+
+App Store: (近日公開 / Coming Soon)
+
 🔒 プライバシーポリシー
-TOMATO 健康アプリシリーズ（血圧記録・血糖値記録）は、ユーザーのプライバシーを最優先に考えています。
+Choochoo Developerのすべてのアプリ（TOMATO健康シリーズ、ココネンネ）は、ユーザーのプライバシーを最優先に考えています。
 
 本アプリは会員登録を必要とせず、ユーザーの個人情報や健康データを開発者のサーバーに収集・送信することはありません。
 
