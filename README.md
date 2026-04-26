@@ -13,7 +13,7 @@ App Store: [Download here](https://apps.apple.com/us/app/tomato-bp-tracker/id676
 
 주요 기능: 공복/식전/식후 원터치 기록, 상황별 스마트 대시보드, 맞춤형 측정 알림 설정, CSV 내보내기
 
-App Store: (출시 준비 중 / Coming Soon)
+App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
 🔒 통합 개인정보처리방침 (Privacy Policy)
 TOMATO 건강 앱 시리즈(혈압 기록, 혈당 기록)는 사용자의 개인정보를 최우선으로 생각합니다.
@@ -41,14 +41,14 @@ The most intuitive and lightweight blood pressure diary. Focusing purely on mana
 
 Features: Intuitive Color UI, fast entry for systolic/diastolic/pulse, dynamic trend charts, CSV export for doctors.
 
-App Store: Download here
+App Store: [Download here](https://apps.apple.com/us/app/tomato-bp-tracker/id6761457449)
 
 2. TOMATO – BS Tracker
 The most intuitive blood sugar diary. Smartly manage your before and after meal readings tailored to your lifestyle.
 
 Features: One-tap entry for fasting/meals, smart dashboard by context, custom measurement reminders, CSV export.
 
-App Store: (Coming Soon)
+App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
 🔒 Privacy Policy
 The TOMATO Health App Series (BP Tracker & BS Tracker) prioritizes your privacy.
@@ -76,14 +76,14 @@ Email: choochoo.developer@gmail.com
 
 主な機能: 直感的なカラーUI、収縮期/拡張期/脈拍の素早い入力、推移グラフ、医師のためのCSV出力。
 
-App Store: Download here
+App Store: [Download here](https://apps.apple.com/us/app/tomato-bp-tracker/id6761457449)
 
 2. TOMATO – 血糖値記録
 最も直感的な血糖値管理ノート。ライフスタイルに合わせて、食前・食後の数値をスマートに管理しましょう。
 
 主な機能: 空腹時/食前/食後のワンタップ記録、状況別のスマートダッシュボード、カスタム測定リマインダー、CSV出力。
 
-App Store: (近日公開 / Coming Soon)
+App Store: [Download here](https://apps.apple.com/us/app/tomato-bs-tracker/id6762235836)
 
 🔒 プライバシーポリシー
 TOMATO 健康アプリシリーズ（血圧記録・血糖値記録）は、ユーザーのプライバシーを最優先に考えています。
